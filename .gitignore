@@ -1,0 +1,9 @@
+venv/
+models/
+*.zip
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+training_data*.jsonl
