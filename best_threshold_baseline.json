@@ -1,0 +1,6 @@
+{
+  "faithfulness_threshold": 0.1,
+  "f1": 0.429,
+  "precision": 0.294,
+  "recall": 0.789
+}

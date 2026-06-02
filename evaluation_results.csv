@@ -1,301 +1,301 @@
 id,question,faithfulness_score,truth_hallucinated,predicted_hallucinated
-11904,how do automotive technicians get paid,0.94,0,0
-11905,how do automotive technicians get paid,0.5688,0,0
-11906,how do automotive technicians get paid,0.0164,0,1
-11907,how do automotive technicians get paid,0.1931,0,0
-11908,how do automotive technicians get paid,0.0707,1,1
-11909,how do automotive technicians get paid,0.7209,0,0
-12012,what is the difference between tartate and succinate,0.9608,0,0
-12013,what is the difference between tartate and succinate,0.9511,0,0
-12014,what is the difference between tartate and succinate,0.6283,0,0
-12015,what is the difference between tartate and succinate,0.8752,0,0
-12016,what is the difference between tartate and succinate,0.8752,0,0
-12017,what is the difference between tartate and succinate,0.9907,0,0
-12018,wat is dna,0.9289,0,0
-12019,wat is dna,0.9438,0,0
-12020,wat is dna,0.7803,0,0
-12021,wat is dna,0.6723,0,0
-12022,wat is dna,0.555,0,0
-12023,wat is dna,0.555,0,0
-12042,how to grill a porterhouse,0.0045,0,1
-12043,how to grill a porterhouse,0.0476,0,1
-12044,how to grill a porterhouse,0.0008,1,1
-12045,how to grill a porterhouse,0.007,1,1
-12046,how to grill a porterhouse,0.043,1,1
-12047,how to grill a porterhouse,0.0476,0,1
-12066,magellan of virginia provider,0.9143,0,0
-12067,magellan of virginia provider,0.0394,0,1
-12068,magellan of virginia provider,0.2279,0,0
-12069,magellan of virginia provider,0.004,0,1
-12070,magellan of virginia provider,0.0058,0,1
-12071,magellan of virginia provider,0.0271,0,1
-12102,how to fix a door that won't lock,0.8803,0,0
-12103,how to fix a door that won't lock,0.009,0,1
-12104,how to fix a door that won't lock,0.052,0,1
-12105,how to fix a door that won't lock,0.0034,0,1
-12106,how to fix a door that won't lock,0.3439,0,0
-12107,how to fix a door that won't lock,0.0896,0,1
-12132,how to cook pollock?,0.5992,0,0
-12133,how to cook pollock?,0.0587,0,1
-12134,how to cook pollock?,0.0019,0,1
-12135,how to cook pollock?,0.0747,0,1
-12136,how to cook pollock?,0.423,0,0
-12137,how to cook pollock?,0.0041,0,1
-12180,how to get plastic out of clothes dryer,0.1556,0,0
-12181,how to get plastic out of clothes dryer,0.1407,0,0
-12182,how to get plastic out of clothes dryer,0.2273,0,0
-12183,how to get plastic out of clothes dryer,0.0424,0,1
-12184,how to get plastic out of clothes dryer,0.1537,0,0
-12185,how to get plastic out of clothes dryer,0.0615,0,1
-12216,how to fold a quilt,0.0063,0,1
-12217,how to fold a quilt,0.0032,0,1
-12218,how to fold a quilt,0.0128,0,1
-12219,how to fold a quilt,0.0137,1,1
-12220,how to fold a quilt,0.0087,0,1
-12221,how to fold a quilt,0.0137,0,1
-12228,benefits of a water pick,0.8805,0,0
-12229,benefits of a water pick,0.5492,0,0
-12230,benefits of a water pick,0.9838,0,0
-12231,benefits of a water pick,0.0303,0,1
-12232,benefits of a water pick,0.9782,0,0
-12233,benefits of a water pick,0.9192,1,0
-12240,how can i keep birds from building a nest on my porch,0.9555,0,0
-12241,how can i keep birds from building a nest on my porch,0.0202,0,1
-12242,how can i keep birds from building a nest on my porch,0.4353,0,0
-12243,how can i keep birds from building a nest on my porch,0.1477,0,0
-12244,how can i keep birds from building a nest on my porch,0.0269,0,1
-12245,how can i keep birds from building a nest on my porch,0.867,0,0
-12258,set default browser to windows,0.0469,0,1
-12259,set default browser to windows,0.4976,0,0
-12260,set default browser to windows,0.0778,1,1
-12261,set default browser to windows,0.0025,1,1
-12262,set default browser to windows,0.0399,1,1
-12263,set default browser to windows,0.0076,0,1
-12294,what is the proper way to dispose of a worn usa flag,0.8825,0,0
-12295,what is the proper way to dispose of a worn usa flag,0.171,0,0
-12296,what is the proper way to dispose of a worn usa flag,0.9473,0,0
-12297,what is the proper way to dispose of a worn usa flag,0.053,1,1
-12298,what is the proper way to dispose of a worn usa flag,0.5521,0,0
-12299,what is the proper way to dispose of a worn usa flag,0.4106,0,0
-12330,how to tell if your male coworker is flirting with you,0.3838,0,0
-12331,how to tell if your male coworker is flirting with you,0.0669,0,1
-12332,how to tell if your male coworker is flirting with you,0.0328,0,1
-12333,how to tell if your male coworker is flirting with you,0.063,0,1
-12334,how to tell if your male coworker is flirting with you,0.0202,0,1
-12335,how to tell if your male coworker is flirting with you,0.3394,0,0
-12342,how to cook brats,0.048,0,1
-12343,how to cook brats,0.0139,0,1
-12344,how to cook brats,0.017,0,1
-12345,how to cook brats,0.0024,1,1
-12346,how to cook brats,0.0742,0,1
-12347,how to cook brats,0.021,0,1
-12432,symptoms and causes of ibs,0.396,0,0
-12433,symptoms and causes of ibs,0.7179,0,0
-12434,symptoms and causes of ibs,0.9869,0,0
-12435,symptoms and causes of ibs,0.0675,1,1
-12436,symptoms and causes of ibs,0.9985,0,0
-12437,symptoms and causes of ibs,0.0035,0,1
-12438,how to prepare blood slide,0.0066,0,1
-12439,how to prepare blood slide,0.0295,0,1
-12440,how to prepare blood slide,0.0486,0,1
-12441,how to prepare blood slide,0.0075,0,1
-12442,how to prepare blood slide,0.0106,0,1
-12443,how to prepare blood slide,0.0171,0,1
-12444,what is the difference between essential and nonessential amino acids,0.0578,0,1
-12445,what is the difference between essential and nonessential amino acids,0.4197,0,0
-12446,what is the difference between essential and nonessential amino acids,0.9593,0,0
-12447,what is the difference between essential and nonessential amino acids,0.7354,0,0
-12448,what is the difference between essential and nonessential amino acids,0.4347,0,0
-12449,what is the difference between essential and nonessential amino acids,0.3272,1,0
-12456,typical weather in indiana,0.0354,0,1
-12457,typical weather in indiana,0.347,0,0
-12458,typical weather in indiana,0.0464,1,1
-12459,typical weather in indiana,0.0339,1,1
-12460,typical weather in indiana,0.0038,1,1
-12461,typical weather in indiana,0.4758,1,0
-12468,how to sync audiobook from iphone to itunes,0.7524,0,0
-12469,how to sync audiobook from iphone to itunes,0.0234,0,1
-12470,how to sync audiobook from iphone to itunes,0.9603,0,0
-12471,how to sync audiobook from iphone to itunes,0.0505,1,1
-12472,how to sync audiobook from iphone to itunes,0.0362,0,1
-12473,how to sync audiobook from iphone to itunes,0.0235,0,1
-12516,how the body systems work together,0.9724,0,0
-12517,how the body systems work together,0.7438,0,0
-12518,how the body systems work together,0.0058,1,1
-12519,how the body systems work together,0.015,0,1
-12520,how the body systems work together,0.0058,0,1
-12521,how the body systems work together,0.0846,1,1
-12522,what is the difference between the leeward and windward islands?,0.0053,0,1
-12523,what is the difference between the leeward and windward islands?,0.1064,0,0
-12524,what is the difference between the leeward and windward islands?,0.0301,0,1
-12525,what is the difference between the leeward and windward islands?,0.0172,0,1
-12526,what is the difference between the leeward and windward islands?,0.0687,0,1
-12527,what is the difference between the leeward and windward islands?,0.0723,0,1
-12552,how are water shares transferred,0.055,0,1
-12553,how are water shares transferred,0.8967,0,0
-12554,how are water shares transferred,0.9111,0,0
-12555,how are water shares transferred,0.7457,0,0
-12556,how are water shares transferred,0.0355,0,1
-12557,how are water shares transferred,0.1308,0,0
-12600,teresa name meaning,0.7637,0,0
-12601,teresa name meaning,0.4686,0,0
-12602,teresa name meaning,0.4867,1,0
-12603,teresa name meaning,0.094,0,1
-12604,teresa name meaning,0.0758,0,1
-12605,teresa name meaning,0.8843,0,0
-12618,building a lean-to shed,0.0516,0,1
-12619,building a lean-to shed,0.9649,0,0
-12620,building a lean-to shed,0.1438,0,0
-12621,building a lean-to shed,0.0023,0,1
-12622,building a lean-to shed,0.0695,0,1
-12623,building a lean-to shed,0.2196,0,0
-12690,difference between vietnam and india,0.6637,0,0
-12691,difference between vietnam and india,0.1351,0,0
-12692,difference between vietnam and india,0.0488,1,1
-12693,difference between vietnam and india,0.0254,1,1
-12694,difference between vietnam and india,0.0178,1,1
-12695,difference between vietnam and india,0.0123,1,1
-12702,how to roast individual garlic cloves,0.9663,0,0
-12703,how to roast individual garlic cloves,0.0942,0,1
-12704,how to roast individual garlic cloves,0.0162,0,1
-12705,how to roast individual garlic cloves,0.008,0,1
-12706,how to roast individual garlic cloves,0.0307,0,1
-12707,how to roast individual garlic cloves,0.0417,0,1
-12762,what is the treatment when asset is discarded as per income tax act,0.338,0,0
-12763,what is the treatment when asset is discarded as per income tax act,0.9825,0,0
-12764,what is the treatment when asset is discarded as per income tax act,0.004,0,1
-12765,what is the treatment when asset is discarded as per income tax act,0.3561,1,0
-12766,what is the treatment when asset is discarded as per income tax act,0.0041,0,1
-12767,what is the treatment when asset is discarded as per income tax act,0.9792,0,0
-12840,how to sew a zipper gusset,0.2612,0,0
-12841,how to sew a zipper gusset,0.0597,0,1
-12842,how to sew a zipper gusset,0.0288,1,1
-12843,how to sew a zipper gusset,0.0361,0,1
-12844,how to sew a zipper gusset,0.2603,0,0
-12845,how to sew a zipper gusset,0.1693,0,0
-12900,how to bake hard boiled egg,0.3929,0,0
-12901,how to bake hard boiled egg,0.0102,0,1
-12902,how to bake hard boiled egg,0.0056,1,1
-12903,how to bake hard boiled egg,0.0024,1,1
-12904,how to bake hard boiled egg,0.1095,0,0
-12905,how to bake hard boiled egg,0.2021,0,0
-12912,what is the drawer for on bottom of oven stove,0.9819,0,0
-12913,what is the drawer for on bottom of oven stove,0.9936,0,0
-12914,what is the drawer for on bottom of oven stove,0.9738,0,0
-12915,what is the drawer for on bottom of oven stove,0.5171,0,0
-12916,what is the drawer for on bottom of oven stove,0.9939,0,0
-12917,what is the drawer for on bottom of oven stove,0.9757,1,0
-13038,how to factory reset a htc one vx,0.0995,0,1
-13039,how to factory reset a htc one vx,0.8844,0,0
-13040,how to factory reset a htc one vx,0.1068,0,0
-13041,how to factory reset a htc one vx,0.2328,0,0
-13042,how to factory reset a htc one vx,0.0194,1,1
-13043,how to factory reset a htc one vx,0.0161,0,1
-13068,what is psa levels mean,0.9661,0,0
-13069,what is psa levels mean,0.9889,0,0
-13070,what is psa levels mean,0.5857,1,0
-13071,what is psa levels mean,0.773,0,0
-13072,what is psa levels mean,0.1784,0,0
-13073,what is psa levels mean,0.5707,0,0
-13104,show me how can i make gragh for my research,0.6907,0,0
-13105,show me how can i make gragh for my research,0.0155,1,1
-13106,show me how can i make gragh for my research,0.0659,0,1
-13107,show me how can i make gragh for my research,0.0021,1,1
-13108,show me how can i make gragh for my research,0.0029,1,1
-13109,show me how can i make gragh for my research,0.0044,0,1
-13128,how to soften sugar,0.1498,0,0
-13129,how to soften sugar,0.0318,0,1
-13130,how to soften sugar,0.0215,0,1
-13131,how to soften sugar,0.0355,0,1
-13132,how to soften sugar,0.4432,0,0
-13133,how to soften sugar,0.015,0,1
-13134,how to change the sleep time on my computer,0.0049,0,1
-13135,how to change the sleep time on my computer,0.8964,0,0
-13136,how to change the sleep time on my computer,0.0019,1,1
-13137,how to change the sleep time on my computer,0.0008,1,1
-13138,how to change the sleep time on my computer,0.0264,0,1
-13139,how to change the sleep time on my computer,0.1705,0,0
-13152,psychological effects of hugging,0.0821,0,1
-13153,psychological effects of hugging,0.9473,0,0
-13154,psychological effects of hugging,0.3578,0,0
-13155,psychological effects of hugging,0.0067,1,1
-13156,psychological effects of hugging,0.0172,1,1
-13157,psychological effects of hugging,0.023,1,1
-13158,how to cook a small prime rib roast in oven,0.0032,0,1
-13159,how to cook a small prime rib roast in oven,0.0005,0,1
-13160,how to cook a small prime rib roast in oven,0.0005,1,1
-13161,how to cook a small prime rib roast in oven,0.006,1,1
-13162,how to cook a small prime rib roast in oven,0.0005,1,1
-13163,how to cook a small prime rib roast in oven,0.0222,1,1
-13206,how long does it take to make chicken tender in crock pot,0.9616,0,0
-13207,how long does it take to make chicken tender in crock pot,0.9598,0,0
-13208,how long does it take to make chicken tender in crock pot,0.2489,0,0
-13209,how long does it take to make chicken tender in crock pot,0.9749,0,0
-13210,how long does it take to make chicken tender in crock pot,0.0062,1,1
-13211,how long does it take to make chicken tender in crock pot,0.0266,0,1
-13230,how to attach multiple picture frames together,0.2925,0,0
-13231,how to attach multiple picture frames together,0.9541,0,0
-13232,how to attach multiple picture frames together,0.0166,0,1
-13233,how to attach multiple picture frames together,0.0076,0,1
-13234,how to attach multiple picture frames together,0.0579,0,1
-13235,how to attach multiple picture frames together,0.1277,0,0
-13260,leasing meaning,0.1462,0,0
-13261,leasing meaning,0.9291,0,0
-13262,leasing meaning,0.0021,1,1
-13263,leasing meaning,0.7601,1,0
-13264,leasing meaning,0.9392,0,0
-13265,leasing meaning,0.6965,1,0
-13290,what causes necrotizing fasciitis,0.9768,0,0
-13291,what causes necrotizing fasciitis,0.9936,0,0
-13292,what causes necrotizing fasciitis,0.9764,0,0
-13293,what causes necrotizing fasciitis,0.4431,1,0
-13294,what causes necrotizing fasciitis,0.1505,0,0
-13295,what causes necrotizing fasciitis,0.7091,0,0
-13308,what is chard vegetable,0.8466,0,0
-13309,what is chard vegetable,0.9088,0,0
-13310,what is chard vegetable,0.5774,0,0
-13311,what is chard vegetable,0.296,0,0
-13312,what is chard vegetable,0.456,0,0
-13313,what is chard vegetable,0.0036,0,1
-13338,differences between elements compounds and mixtures,0.9727,0,0
-13339,differences between elements compounds and mixtures,0.913,0,0
-13340,differences between elements compounds and mixtures,0.5599,1,0
-13341,differences between elements compounds and mixtures,0.5715,0,0
-13342,differences between elements compounds and mixtures,0.0554,1,1
-13343,differences between elements compounds and mixtures,0.0216,0,1
-13362,how to wash wine glasses properly,0.9651,0,0
-13363,how to wash wine glasses properly,0.002,1,1
-13364,how to wash wine glasses properly,0.0386,0,1
-13365,how to wash wine glasses properly,0.0616,0,1
-13366,how to wash wine glasses properly,0.0761,1,1
-13367,how to wash wine glasses properly,0.006,1,1
-13374,how to peel potatoes fast,0.1596,0,0
-13375,how to peel potatoes fast,0.3782,0,0
-13376,how to peel potatoes fast,0.0016,1,1
-13377,how to peel potatoes fast,0.0053,0,1
-13378,how to peel potatoes fast,0.0936,0,1
-13379,how to peel potatoes fast,0.018,0,1
-13428,how to fix lift valve in toilet,0.1849,0,0
-13429,how to fix lift valve in toilet,0.823,0,0
-13430,how to fix lift valve in toilet,0.0376,0,1
-13431,how to fix lift valve in toilet,0.0126,0,1
-13432,how to fix lift valve in toilet,0.0123,0,1
-13433,how to fix lift valve in toilet,0.0075,0,1
-13440,oil stain on concrete driveway,0.9874,0,0
-13441,oil stain on concrete driveway,0.9919,0,0
-13442,oil stain on concrete driveway,0.7451,1,0
-13443,oil stain on concrete driveway,0.0074,0,1
-13444,oil stain on concrete driveway,0.0074,0,1
-13445,oil stain on concrete driveway,0.9647,0,0
-13464,average weather sausalito,0.0136,0,1
-13465,average weather sausalito,0.0874,0,1
-13466,average weather sausalito,0.3353,0,0
-13467,average weather sausalito,0.078,0,1
-13468,average weather sausalito,0.9931,0,0
-13469,average weather sausalito,0.0193,1,1
-13488,how do crab traps work,0.2787,0,0
-13489,how do crab traps work,0.5746,0,0
-13490,how do crab traps work,0.0211,0,1
-13491,how do crab traps work,0.4119,0,0
-13492,how do crab traps work,0.0904,0,1
-13493,how do crab traps work,0.4159,0,0
+11904,how do automotive technicians get paid,0.9997,0,0
+11905,how do automotive technicians get paid,0.9997,0,0
+11906,how do automotive technicians get paid,0.9998,0,0
+11907,how do automotive technicians get paid,0.9974,0,0
+11908,how do automotive technicians get paid,0.021,1,1
+11909,how do automotive technicians get paid,0.9996,0,0
+12012,what is the difference between tartate and succinate,0.9996,0,0
+12013,what is the difference between tartate and succinate,0.9995,0,0
+12014,what is the difference between tartate and succinate,0.9993,0,0
+12015,what is the difference between tartate and succinate,0.9997,0,0
+12016,what is the difference between tartate and succinate,0.9995,0,0
+12017,what is the difference between tartate and succinate,0.9996,0,0
+12018,wat is dna,0.9997,0,0
+12019,wat is dna,0.9995,0,0
+12020,wat is dna,0.9996,0,0
+12021,wat is dna,0.3674,0,1
+12022,wat is dna,0.9996,0,0
+12023,wat is dna,0.9983,0,0
+12042,how to grill a porterhouse,0.9998,0,0
+12043,how to grill a porterhouse,0.9998,0,0
+12044,how to grill a porterhouse,0.0029,1,1
+12045,how to grill a porterhouse,0.0088,1,1
+12046,how to grill a porterhouse,0.0055,1,1
+12047,how to grill a porterhouse,0.9979,0,0
+12066,magellan of virginia provider,0.9994,0,0
+12067,magellan of virginia provider,0.0044,0,1
+12068,magellan of virginia provider,0.9997,0,0
+12069,magellan of virginia provider,0.9987,0,0
+12070,magellan of virginia provider,0.9972,0,0
+12071,magellan of virginia provider,0.0376,0,1
+12102,how to fix a door that won't lock,0.9994,0,0
+12103,how to fix a door that won't lock,0.9996,0,0
+12104,how to fix a door that won't lock,0.9995,0,0
+12105,how to fix a door that won't lock,0.9991,0,0
+12106,how to fix a door that won't lock,0.9996,0,0
+12107,how to fix a door that won't lock,0.9995,0,0
+12132,how to cook pollock?,0.9996,0,0
+12133,how to cook pollock?,0.9996,0,0
+12134,how to cook pollock?,0.2368,0,1
+12135,how to cook pollock?,0.9868,0,0
+12136,how to cook pollock?,0.9982,0,0
+12137,how to cook pollock?,0.0016,0,1
+12180,how to get plastic out of clothes dryer,0.998,0,0
+12181,how to get plastic out of clothes dryer,0.9994,0,0
+12182,how to get plastic out of clothes dryer,0.9995,0,0
+12183,how to get plastic out of clothes dryer,0.9973,0,0
+12184,how to get plastic out of clothes dryer,0.9993,0,0
+12185,how to get plastic out of clothes dryer,0.9408,0,0
+12216,how to fold a quilt,0.9996,0,0
+12217,how to fold a quilt,0.9998,0,0
+12218,how to fold a quilt,0.9988,0,0
+12219,how to fold a quilt,0.9864,1,0
+12220,how to fold a quilt,0.0066,0,1
+12221,how to fold a quilt,0.997,0,0
+12228,benefits of a water pick,0.9994,0,0
+12229,benefits of a water pick,0.9994,0,0
+12230,benefits of a water pick,0.9988,0,0
+12231,benefits of a water pick,0.9939,0,0
+12232,benefits of a water pick,0.8983,0,0
+12233,benefits of a water pick,0.999,1,0
+12240,how can i keep birds from building a nest on my porch,0.9997,0,0
+12241,how can i keep birds from building a nest on my porch,0.9991,0,0
+12242,how can i keep birds from building a nest on my porch,0.9997,0,0
+12243,how can i keep birds from building a nest on my porch,0.9988,0,0
+12244,how can i keep birds from building a nest on my porch,0.9689,0,0
+12245,how can i keep birds from building a nest on my porch,0.9995,0,0
+12258,set default browser to windows,0.999,0,0
+12259,set default browser to windows,0.9994,0,0
+12260,set default browser to windows,0.9994,1,0
+12261,set default browser to windows,0.0078,1,1
+12262,set default browser to windows,0.7019,1,1
+12263,set default browser to windows,0.999,0,0
+12294,what is the proper way to dispose of a worn usa flag,0.9994,0,0
+12295,what is the proper way to dispose of a worn usa flag,0.9996,0,0
+12296,what is the proper way to dispose of a worn usa flag,0.9995,0,0
+12297,what is the proper way to dispose of a worn usa flag,0.9906,1,0
+12298,what is the proper way to dispose of a worn usa flag,0.0259,0,1
+12299,what is the proper way to dispose of a worn usa flag,0.9983,0,0
+12330,how to tell if your male coworker is flirting with you,0.9994,0,0
+12331,how to tell if your male coworker is flirting with you,0.9993,0,0
+12332,how to tell if your male coworker is flirting with you,0.9997,0,0
+12333,how to tell if your male coworker is flirting with you,0.0355,0,1
+12334,how to tell if your male coworker is flirting with you,0.0124,0,1
+12335,how to tell if your male coworker is flirting with you,0.9684,0,0
+12342,how to cook brats,0.9995,0,0
+12343,how to cook brats,0.9963,0,0
+12344,how to cook brats,0.9997,0,0
+12345,how to cook brats,0.0059,1,1
+12346,how to cook brats,0.9918,0,0
+12347,how to cook brats,0.9994,0,0
+12432,symptoms and causes of ibs,0.9997,0,0
+12433,symptoms and causes of ibs,0.9997,0,0
+12434,symptoms and causes of ibs,0.999,0,0
+12435,symptoms and causes of ibs,0.9996,1,0
+12436,symptoms and causes of ibs,0.9994,0,0
+12437,symptoms and causes of ibs,0.9979,0,0
+12438,how to prepare blood slide,0.9996,0,0
+12439,how to prepare blood slide,0.9997,0,0
+12440,how to prepare blood slide,0.9991,0,0
+12441,how to prepare blood slide,0.9993,0,0
+12442,how to prepare blood slide,0.9991,0,0
+12443,how to prepare blood slide,0.9991,0,0
+12444,what is the difference between essential and nonessential amino acids,0.9992,0,0
+12445,what is the difference between essential and nonessential amino acids,0.9996,0,0
+12446,what is the difference between essential and nonessential amino acids,0.9996,0,0
+12447,what is the difference between essential and nonessential amino acids,0.604,0,1
+12448,what is the difference between essential and nonessential amino acids,0.9995,0,0
+12449,what is the difference between essential and nonessential amino acids,0.004,1,1
+12456,typical weather in indiana,0.9982,0,0
+12457,typical weather in indiana,0.999,0,0
+12458,typical weather in indiana,0.0084,1,1
+12459,typical weather in indiana,0.0067,1,1
+12460,typical weather in indiana,0.0029,1,1
+12461,typical weather in indiana,0.007,1,1
+12468,how to sync audiobook from iphone to itunes,0.9997,0,0
+12469,how to sync audiobook from iphone to itunes,0.9997,0,0
+12470,how to sync audiobook from iphone to itunes,0.9996,0,0
+12471,how to sync audiobook from iphone to itunes,0.9994,1,0
+12472,how to sync audiobook from iphone to itunes,0.0889,0,1
+12473,how to sync audiobook from iphone to itunes,0.9974,0,0
+12516,how the body systems work together,0.9997,0,0
+12517,how the body systems work together,0.9995,0,0
+12518,how the body systems work together,0.0428,1,1
+12519,how the body systems work together,0.0032,0,1
+12520,how the body systems work together,0.9995,0,0
+12521,how the body systems work together,0.0123,1,1
+12522,what is the difference between the leeward and windward islands?,0.9705,0,0
+12523,what is the difference between the leeward and windward islands?,0.9997,0,0
+12524,what is the difference between the leeward and windward islands?,0.9995,0,0
+12525,what is the difference between the leeward and windward islands?,0.9893,0,0
+12526,what is the difference between the leeward and windward islands?,0.9996,0,0
+12527,what is the difference between the leeward and windward islands?,0.9982,0,0
+12552,how are water shares transferred,0.9998,0,0
+12553,how are water shares transferred,0.9998,0,0
+12554,how are water shares transferred,0.9998,0,0
+12555,how are water shares transferred,0.9986,0,0
+12556,how are water shares transferred,0.9983,0,0
+12557,how are water shares transferred,0.9996,0,0
+12600,teresa name meaning,0.3463,0,1
+12601,teresa name meaning,0.9994,0,0
+12602,teresa name meaning,0.9994,1,0
+12603,teresa name meaning,0.9995,0,0
+12604,teresa name meaning,0.985,0,0
+12605,teresa name meaning,0.9988,0,0
+12618,building a lean-to shed,0.9997,0,0
+12619,building a lean-to shed,0.9998,0,0
+12620,building a lean-to shed,0.9997,0,0
+12621,building a lean-to shed,0.0095,0,1
+12622,building a lean-to shed,0.9997,0,0
+12623,building a lean-to shed,0.9997,0,0
+12690,difference between vietnam and india,0.9996,0,0
+12691,difference between vietnam and india,0.9985,0,0
+12692,difference between vietnam and india,0.9978,1,0
+12693,difference between vietnam and india,0.0086,1,1
+12694,difference between vietnam and india,0.9975,1,0
+12695,difference between vietnam and india,0.0038,1,1
+12702,how to roast individual garlic cloves,0.9996,0,0
+12703,how to roast individual garlic cloves,0.0057,0,1
+12704,how to roast individual garlic cloves,0.0057,0,1
+12705,how to roast individual garlic cloves,0.8378,0,0
+12706,how to roast individual garlic cloves,0.0031,0,1
+12707,how to roast individual garlic cloves,0.0083,0,1
+12762,what is the treatment when asset is discarded as per income tax act,0.9997,0,0
+12763,what is the treatment when asset is discarded as per income tax act,0.9997,0,0
+12764,what is the treatment when asset is discarded as per income tax act,0.9727,0,0
+12765,what is the treatment when asset is discarded as per income tax act,0.0051,1,1
+12766,what is the treatment when asset is discarded as per income tax act,0.9989,0,0
+12767,what is the treatment when asset is discarded as per income tax act,0.9982,0,0
+12840,how to sew a zipper gusset,0.9997,0,0
+12841,how to sew a zipper gusset,0.9998,0,0
+12842,how to sew a zipper gusset,0.003,1,1
+12843,how to sew a zipper gusset,0.9994,0,0
+12844,how to sew a zipper gusset,0.9996,0,0
+12845,how to sew a zipper gusset,0.9987,0,0
+12900,how to bake hard boiled egg,0.9996,0,0
+12901,how to bake hard boiled egg,0.9998,0,0
+12902,how to bake hard boiled egg,0.6428,1,1
+12903,how to bake hard boiled egg,0.0043,1,1
+12904,how to bake hard boiled egg,0.0045,0,1
+12905,how to bake hard boiled egg,0.9995,0,0
+12912,what is the drawer for on bottom of oven stove,0.9997,0,0
+12913,what is the drawer for on bottom of oven stove,0.9997,0,0
+12914,what is the drawer for on bottom of oven stove,0.9997,0,0
+12915,what is the drawer for on bottom of oven stove,0.9997,0,0
+12916,what is the drawer for on bottom of oven stove,0.9997,0,0
+12917,what is the drawer for on bottom of oven stove,0.9997,1,0
+13038,how to factory reset a htc one vx,0.9998,0,0
+13039,how to factory reset a htc one vx,0.9998,0,0
+13040,how to factory reset a htc one vx,0.9308,0,0
+13041,how to factory reset a htc one vx,0.9996,0,0
+13042,how to factory reset a htc one vx,0.9605,1,0
+13043,how to factory reset a htc one vx,0.9997,0,0
+13068,what is psa levels mean,0.9997,0,0
+13069,what is psa levels mean,0.9997,0,0
+13070,what is psa levels mean,0.0115,1,1
+13071,what is psa levels mean,0.9987,0,0
+13072,what is psa levels mean,0.9887,0,0
+13073,what is psa levels mean,0.9995,0,0
+13104,show me how can i make gragh for my research,0.9996,0,0
+13105,show me how can i make gragh for my research,0.0181,1,1
+13106,show me how can i make gragh for my research,0.0157,0,1
+13107,show me how can i make gragh for my research,0.5632,1,1
+13108,show me how can i make gragh for my research,0.0053,1,1
+13109,show me how can i make gragh for my research,0.003,0,1
+13128,how to soften sugar,0.9997,0,0
+13129,how to soften sugar,0.999,0,0
+13130,how to soften sugar,0.9997,0,0
+13131,how to soften sugar,0.1008,0,1
+13132,how to soften sugar,0.9992,0,0
+13133,how to soften sugar,0.0068,0,1
+13134,how to change the sleep time on my computer,0.9998,0,0
+13135,how to change the sleep time on my computer,0.9997,0,0
+13136,how to change the sleep time on my computer,0.0022,1,1
+13137,how to change the sleep time on my computer,0.0171,1,1
+13138,how to change the sleep time on my computer,0.9837,0,0
+13139,how to change the sleep time on my computer,0.9995,0,0
+13152,psychological effects of hugging,0.9983,0,0
+13153,psychological effects of hugging,0.9995,0,0
+13154,psychological effects of hugging,0.9993,0,0
+13155,psychological effects of hugging,0.0031,1,1
+13156,psychological effects of hugging,0.0027,1,1
+13157,psychological effects of hugging,0.8888,1,0
+13158,how to cook a small prime rib roast in oven,0.9997,0,0
+13159,how to cook a small prime rib roast in oven,0.994,0,0
+13160,how to cook a small prime rib roast in oven,0.6746,1,1
+13161,how to cook a small prime rib roast in oven,0.0036,1,1
+13162,how to cook a small prime rib roast in oven,0.0141,1,1
+13163,how to cook a small prime rib roast in oven,0.0061,1,1
+13206,how long does it take to make chicken tender in crock pot,0.9997,0,0
+13207,how long does it take to make chicken tender in crock pot,0.9995,0,0
+13208,how long does it take to make chicken tender in crock pot,0.9967,0,0
+13209,how long does it take to make chicken tender in crock pot,0.1267,0,1
+13210,how long does it take to make chicken tender in crock pot,0.0105,1,1
+13211,how long does it take to make chicken tender in crock pot,0.9991,0,0
+13230,how to attach multiple picture frames together,0.9997,0,0
+13231,how to attach multiple picture frames together,0.9997,0,0
+13232,how to attach multiple picture frames together,0.9993,0,0
+13233,how to attach multiple picture frames together,0.9992,0,0
+13234,how to attach multiple picture frames together,0.9847,0,0
+13235,how to attach multiple picture frames together,0.9988,0,0
+13260,leasing meaning,0.9996,0,0
+13261,leasing meaning,0.9998,0,0
+13262,leasing meaning,0.9975,1,0
+13263,leasing meaning,0.9985,1,0
+13264,leasing meaning,0.9998,0,0
+13265,leasing meaning,0.9989,1,0
+13290,what causes necrotizing fasciitis,0.9828,0,0
+13291,what causes necrotizing fasciitis,0.9992,0,0
+13292,what causes necrotizing fasciitis,0.9995,0,0
+13293,what causes necrotizing fasciitis,0.9994,1,0
+13294,what causes necrotizing fasciitis,0.9993,0,0
+13295,what causes necrotizing fasciitis,0.9993,0,0
+13308,what is chard vegetable,0.9994,0,0
+13309,what is chard vegetable,0.9996,0,0
+13310,what is chard vegetable,0.9997,0,0
+13311,what is chard vegetable,0.2196,0,1
+13312,what is chard vegetable,0.9894,0,0
+13313,what is chard vegetable,0.9977,0,0
+13338,differences between elements compounds and mixtures,0.9994,0,0
+13339,differences between elements compounds and mixtures,0.9996,0,0
+13340,differences between elements compounds and mixtures,0.0024,1,1
+13341,differences between elements compounds and mixtures,0.0609,0,1
+13342,differences between elements compounds and mixtures,0.0035,1,1
+13343,differences between elements compounds and mixtures,0.9987,0,0
+13362,how to wash wine glasses properly,0.9988,0,0
+13363,how to wash wine glasses properly,0.0504,1,1
+13364,how to wash wine glasses properly,0.9996,0,0
+13365,how to wash wine glasses properly,0.9986,0,0
+13366,how to wash wine glasses properly,0.0031,1,1
+13367,how to wash wine glasses properly,0.0058,1,1
+13374,how to peel potatoes fast,0.9993,0,0
+13375,how to peel potatoes fast,0.9993,0,0
+13376,how to peel potatoes fast,0.0102,1,1
+13377,how to peel potatoes fast,0.9995,0,0
+13378,how to peel potatoes fast,0.9993,0,0
+13379,how to peel potatoes fast,0.9992,0,0
+13428,how to fix lift valve in toilet,0.9997,0,0
+13429,how to fix lift valve in toilet,0.9995,0,0
+13430,how to fix lift valve in toilet,0.9994,0,0
+13431,how to fix lift valve in toilet,0.9987,0,0
+13432,how to fix lift valve in toilet,0.9994,0,0
+13433,how to fix lift valve in toilet,0.9995,0,0
+13440,oil stain on concrete driveway,0.9991,0,0
+13441,oil stain on concrete driveway,0.9994,0,0
+13442,oil stain on concrete driveway,0.9996,1,0
+13443,oil stain on concrete driveway,0.8164,0,0
+13444,oil stain on concrete driveway,0.961,0,0
+13445,oil stain on concrete driveway,0.9979,0,0
+13464,average weather sausalito,0.9997,0,0
+13465,average weather sausalito,0.9996,0,0
+13466,average weather sausalito,0.0049,0,1
+13467,average weather sausalito,0.0588,0,1
+13468,average weather sausalito,0.999,0,0
+13469,average weather sausalito,0.0075,1,1
+13488,how do crab traps work,0.9996,0,0
+13489,how do crab traps work,0.9997,0,0
+13490,how do crab traps work,0.9991,0,0
+13491,how do crab traps work,0.4917,0,1
+13492,how do crab traps work,0.9979,0,0
+13493,how do crab traps work,0.9993,0,0
